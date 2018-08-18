@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\basicApprovalProgram\basicApprovalProgram\bin\Debug\basicApprovalProgram.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\basicApprovalProgram\basicApprovalProgram\bin\Debug\basicApprovalProgram.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\basicApprovalProgram\basicApprovalProgram\bin\Debug\basicApprovalProgram.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\basicApprovalProgram\basicApprovalProgram\obj\Debug\basicApprovalProgram.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\basicApprovalProgram\basicApprovalProgram\obj\Debug\basicApprovalProgram.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\basicApprovalProgram\basicApprovalProgram\obj\Debug\basicApprovalProgram.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\basicApprovalProgram\basicApprovalProgram\obj\Debug\basicApprovalProgram.pdb
