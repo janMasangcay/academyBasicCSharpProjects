@@ -30,6 +30,8 @@ namespace mathAndComparisonOperators
             Console.WriteLine("Annual salary of Person 1: " + person1Total);
             Console.WriteLine("Annual salary of Person 2: " + person2Total);
             Console.ReadLine();
+
+            //Compare Person 1 to Person 2
             Console.WriteLine("Does Person 1 make more money than Person 2?");
             Console.ReadLine();
             if (person1Total > person2Total)
