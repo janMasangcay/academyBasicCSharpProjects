@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\mathAndOperatorDrill\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\mathAndOperatorDrill\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\mathAndOperatorDrill\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\mathAndOperatorDrill\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\mathAndOperatorDrill\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\mathAndOperatorDrill\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\mathAndOperatorDrill\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
