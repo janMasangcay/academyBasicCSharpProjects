@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\shippingQuote\shippingQuote\bin\Debug\shippingQuote.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\shippingQuote\shippingQuote\bin\Debug\shippingQuote.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\shippingQuote\shippingQuote\bin\Debug\shippingQuote.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\shippingQuote\shippingQuote\obj\Debug\shippingQuote.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\shippingQuote\shippingQuote\obj\Debug\shippingQuote.pdb
