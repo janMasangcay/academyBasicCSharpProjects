@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\whileAndDoWhile\whileAndDoWhile\bin\Debug\whileAndDoWhile.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\whileAndDoWhile\whileAndDoWhile\bin\Debug\whileAndDoWhile.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\whileAndDoWhile\whileAndDoWhile\bin\Debug\whileAndDoWhile.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\whileAndDoWhile\whileAndDoWhile\obj\Debug\whileAndDoWhile.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\whileAndDoWhile\whileAndDoWhile\obj\Debug\whileAndDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\whileAndDoWhile\whileAndDoWhile\obj\Debug\whileAndDoWhile.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\whileAndDoWhile\whileAndDoWhile\obj\Debug\whileAndDoWhile.pdb
