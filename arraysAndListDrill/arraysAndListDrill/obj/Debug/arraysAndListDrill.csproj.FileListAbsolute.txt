@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\arraysAndListDrill\arraysAndListDrill\bin\Debug\arraysAndListDrill.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\arraysAndListDrill\arraysAndListDrill\bin\Debug\arraysAndListDrill.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\arraysAndListDrill\arraysAndListDrill\bin\Debug\arraysAndListDrill.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\arraysAndListDrill\arraysAndListDrill\obj\Debug\arraysAndListDrill.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\arraysAndListDrill\arraysAndListDrill\obj\Debug\arraysAndListDrill.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\arraysAndListDrill\arraysAndListDrill\obj\Debug\arraysAndListDrill.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\arraysAndListDrill\arraysAndListDrill\obj\Debug\arraysAndListDrill.pdb
