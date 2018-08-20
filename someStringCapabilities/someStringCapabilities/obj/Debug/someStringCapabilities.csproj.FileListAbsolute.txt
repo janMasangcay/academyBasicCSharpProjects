@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\someStringCapabilities\someStringCapabilities\bin\Debug\someStringCapabilities.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\someStringCapabilities\someStringCapabilities\bin\Debug\someStringCapabilities.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\someStringCapabilities\someStringCapabilities\bin\Debug\someStringCapabilities.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\someStringCapabilities\someStringCapabilities\obj\Debug\someStringCapabilities.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\someStringCapabilities\someStringCapabilities\obj\Debug\someStringCapabilities.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\someStringCapabilities\someStringCapabilities\obj\Debug\someStringCapabilities.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\someStringCapabilities\someStringCapabilities\obj\Debug\someStringCapabilities.pdb
