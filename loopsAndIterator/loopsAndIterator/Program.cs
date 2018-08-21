@@ -10,7 +10,7 @@ namespace loopsAndIterator
             ////1.Create a one-dimensional Array of strings.Ask the user to input some text.Create a loop that goes 
             ////through each string in the Array, adding the user’s text to the string.Then create a loop that prints 
             ////off each string in the Array on a separate line.
-            
+
             //string[] arr = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "" };
             //Console.WriteLine("Add some text:");
             //string userInput = Console.ReadLine();
@@ -22,7 +22,7 @@ namespace loopsAndIterator
 
 
             ////2.Create an infinite loop.
-            
+
             //bool stopLoop = false;
             //while (!stopLoop)
             //{
@@ -31,7 +31,7 @@ namespace loopsAndIterator
 
 
             ////3.Fix the infinite loop so it will execute.
-            
+
             //bool stopLoop = false;
             //while (!stopLoop)
             //{
@@ -42,7 +42,7 @@ namespace loopsAndIterator
 
             ////5.Create a loop where the comparison used to determine whether to continue iterating the loop 
             ////is a “<=” operator.
-            
+
             //for (int y = 0; y <= arr.Length - 1; y++)
             //{
             //    Console.WriteLine(arr[y]);
@@ -58,7 +58,7 @@ namespace loopsAndIterator
             ////  text to search for in the List.Create a loop that iterates through the loop and then displays the indices
             ////  of the array that contain matching text on the screen.
             ////10.Add code to that above loop that tells a user if they put in text that isn’t in the List.
-            
+
             //List<string> randomText = new List<string>() { "one", "two", "three", "four", "five", "six", "sexen", "eight", "nine", "ten",
             //                                              "sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday",
             //                                              "white", "black", "gray", "red", "yellow", "hello", "blue", "green", "orange", "gold",
@@ -89,7 +89,7 @@ namespace loopsAndIterator
             ////11.Create a List of strings that has at least two identical strings in the List. Create a
             ////foreach loop that evaluates each item in the list, and displays a message showing the string 
             ////and whether or not it has already appeared in the list.
-            
+
             //List<string> randomText1 = new List<string>() { "one", "two", "three", "four", "five", "six", "sexen", "eight", "nine", "ten",
             //                                               "sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday",
             //                                               "white", "black", "gray", "red", "yellow", "hello", "blue", "green", "orange", "gold",
