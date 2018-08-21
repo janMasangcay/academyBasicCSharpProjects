@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethodCNFC\bin\Debug\ClassAndMethodCNFC.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethodCNFC\bin\Debug\ClassAndMethodCNFC.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethodCNFC\bin\Debug\ClassAndMethodCNFC.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethodCNFC\obj\Debug\ClassAndMethodCNFC.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethodCNFC\obj\Debug\ClassAndMethodCNFC.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethodCNFC\obj\Debug\ClassAndMethodCNFC.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethodCNFC\obj\Debug\ClassAndMethodCNFC.pdb
