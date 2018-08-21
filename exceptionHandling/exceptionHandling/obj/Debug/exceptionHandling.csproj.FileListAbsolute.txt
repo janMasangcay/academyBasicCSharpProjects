@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.pdb
