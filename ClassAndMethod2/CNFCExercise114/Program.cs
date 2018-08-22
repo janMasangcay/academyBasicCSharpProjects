@@ -23,7 +23,7 @@ namespace CNFCExercise114
             Console.ReadLine();
 
             //6. In the Main() method of the console app, instantiate the class and call the third 
-            //method, passing in a string that equates to an integer.Display the result to the screen.
+            //method, passing in a string that equates to an integer. Display the result to the screen.
             int multiply = MethodExercise.Calculate("24");
             Console.WriteLine("Arg multiplied to itself: {0}", multiply);
             Console.ReadLine();
