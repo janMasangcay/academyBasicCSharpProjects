@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExercise114\CNFCExercise114\obj\Debug\CNFCExercise114.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExercise114\CNFCExercise114\obj\Debug\CNFCExercise114.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExercise114\CNFCExercise114\bin\Debug\CNFCExercise114.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExercise114\CNFCExercise114\bin\Debug\CNFCExercise114.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExercise114\CNFCExercise114\bin\Debug\CNFCExercise114.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExercise114\CNFCExercise114\obj\Debug\CNFCExercise114.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExercise114\CNFCExercise114\obj\Debug\CNFCExercise114.pdb
