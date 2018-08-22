@@ -1,0 +1,14 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise\CNFCStep113\bin\Debug\CNFCStep113.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise\CNFCStep113\bin\Debug\CNFCStep113.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise\CNFCStep113\bin\Debug\CNFCStep113.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise\CNFCStep113\obj\Debug\CNFCStep113.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise\CNFCStep113\obj\Debug\CNFCStep113.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise\CNFCStep113\obj\Debug\CNFCStep113.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise\CNFCStep113\obj\Debug\CNFCStep113.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise113\CNFCStep113\bin\Debug\CNFCStep113.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise113\CNFCStep113\bin\Debug\CNFCStep113.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise113\CNFCStep113\bin\Debug\CNFCStep113.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise113\CNFCStep113\obj\Debug\CNFCStep113.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise113\CNFCStep113\obj\Debug\CNFCStep113.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise113\CNFCStep113\obj\Debug\CNFCStep113.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\CNFCExcercise113\CNFCStep113\obj\Debug\CNFCStep113.pdb
