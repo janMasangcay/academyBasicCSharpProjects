@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethod3\bin\Debug\ClassAndMethod3.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethod3\bin\Debug\ClassAndMethod3.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethod3\bin\Debug\ClassAndMethod3.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethod3\obj\Debug\ClassAndMethod3.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethod3\obj\Debug\ClassAndMethod3.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethod3\obj\Debug\ClassAndMethod3.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod\ClassAndMethod3\obj\Debug\ClassAndMethod3.pdb
