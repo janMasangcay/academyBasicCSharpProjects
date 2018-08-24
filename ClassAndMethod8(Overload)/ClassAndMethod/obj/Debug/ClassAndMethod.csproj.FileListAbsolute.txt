@@ -1,0 +1,14 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod6(Abstract)\ClassAndMethod\bin\Debug\ClassAndMethod.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod6(Abstract)\ClassAndMethod\bin\Debug\ClassAndMethod.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod6(Abstract)\ClassAndMethod\bin\Debug\ClassAndMethod.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod6(Abstract)\ClassAndMethod\obj\Debug\ClassAndMethod.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod6(Abstract)\ClassAndMethod\obj\Debug\ClassAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod6(Abstract)\ClassAndMethod\obj\Debug\ClassAndMethod.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod6(Abstract)\ClassAndMethod\obj\Debug\ClassAndMethod.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod8(Overload)\ClassAndMethod\bin\Debug\ClassAndMethod.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod8(Overload)\ClassAndMethod\bin\Debug\ClassAndMethod.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod8(Overload)\ClassAndMethod\bin\Debug\ClassAndMethod.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod8(Overload)\ClassAndMethod\obj\Debug\ClassAndMethod.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod8(Overload)\ClassAndMethod\obj\Debug\ClassAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod8(Overload)\ClassAndMethod\obj\Debug\ClassAndMethod.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod8(Overload)\ClassAndMethod\obj\Debug\ClassAndMethod.pdb
