@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod11(Struct)\ClassAndMethod\bin\Debug\ClassAndMethod.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod11(Struct)\ClassAndMethod\bin\Debug\ClassAndMethod.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod11(Struct)\ClassAndMethod\bin\Debug\ClassAndMethod.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod11(Struct)\ClassAndMethod\obj\Debug\ClassAndMethod.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod11(Struct)\ClassAndMethod\obj\Debug\ClassAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod11(Struct)\ClassAndMethod\obj\Debug\ClassAndMethod.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod11(Struct)\ClassAndMethod\obj\Debug\ClassAndMethod.pdb
