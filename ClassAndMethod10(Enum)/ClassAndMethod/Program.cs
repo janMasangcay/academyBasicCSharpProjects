@@ -21,7 +21,7 @@ namespace ClassAndMethod
                 string userInput = Console.ReadLine();
                                 
                 //3. Assign the value to a variable of that enum data type you just created.
-                DaysOfTheWeek day = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), userInput);
+                DaysOfTheWeek day = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), userInput.ToLower());
                 
                 for (int i = 0; i < 7; i++)
                 {
