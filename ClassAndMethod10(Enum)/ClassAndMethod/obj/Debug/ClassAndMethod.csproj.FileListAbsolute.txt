@@ -5,3 +5,10 @@ C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAn
 C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod10(Enum)\ClassAndMethod\obj\Debug\ClassAndMethod.csproj.CoreCompileInputs.cache
 C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod10(Enum)\ClassAndMethod\obj\Debug\ClassAndMethod.exe
 C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ClassAndMethod10(Enum)\ClassAndMethod\obj\Debug\ClassAndMethod.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\ClassAndMethod10(Enum)\ClassAndMethod\bin\Debug\ClassAndMethod.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\ClassAndMethod10(Enum)\ClassAndMethod\bin\Debug\ClassAndMethod.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\ClassAndMethod10(Enum)\ClassAndMethod\bin\Debug\ClassAndMethod.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\ClassAndMethod10(Enum)\ClassAndMethod\obj\Debug\ClassAndMethod.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\ClassAndMethod10(Enum)\ClassAndMethod\obj\Debug\ClassAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\ClassAndMethod10(Enum)\ClassAndMethod\obj\Debug\ClassAndMethod.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\ClassAndMethod10(Enum)\ClassAndMethod\obj\Debug\ClassAndMethod.pdb

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace ClassAndMethod
 {
     class Program
@@ -17,7 +19,7 @@ namespace ClassAndMethod
                 //2. Prompt the user to enter the current day of the week.
                 Console.WriteLine("Enter current day:");
                 string userInput = Console.ReadLine();
-
+                                
                 //3. Assign the value to a variable of that enum data type you just created.
                 DaysOfTheWeek day = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), userInput);
                 
