@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\DataTime\DataTimeExercise\bin\Debug\DataTimeExercise.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\DataTime\DataTimeExercise\bin\Debug\DataTimeExercise.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\DataTime\DataTimeExercise\bin\Debug\DataTimeExercise.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\DataTime\DataTimeExercise\obj\Debug\DataTimeExercise.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\DataTime\DataTimeExercise\obj\Debug\DataTimeExercise.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\DataTime\DataTimeExercise\obj\Debug\DataTimeExercise.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\DataTime\DataTimeExercise\obj\Debug\DataTimeExercise.pdb
