@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\FileIO\File IO\bin\Debug\File IO.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\FileIO\File IO\bin\Debug\File IO.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\FileIO\File IO\bin\Debug\File IO.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\FileIO\File IO\obj\Debug\File IO.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\FileIO\File IO\obj\Debug\File IO.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\FileIO\File IO\obj\Debug\File IO.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\academyBasicCSharpProjects\FileIO\File IO\obj\Debug\File IO.pdb
