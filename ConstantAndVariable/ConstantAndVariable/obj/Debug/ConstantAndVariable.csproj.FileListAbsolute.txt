@@ -1,0 +1,7 @@
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ConstantAndVariable\ConstantAndVariable\bin\Debug\ConstantAndVariable.exe.config
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ConstantAndVariable\ConstantAndVariable\bin\Debug\ConstantAndVariable.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ConstantAndVariable\ConstantAndVariable\bin\Debug\ConstantAndVariable.pdb
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ConstantAndVariable\ConstantAndVariable\obj\Debug\ConstantAndVariable.csprojAssemblyReference.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ConstantAndVariable\ConstantAndVariable\obj\Debug\ConstantAndVariable.csproj.CoreCompileInputs.cache
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ConstantAndVariable\ConstantAndVariable\obj\Debug\ConstantAndVariable.exe
+C:\Users\jcmas\Desktop\academyProjects\academyProjects\visualStudiosFile\ConstantAndVariable\ConstantAndVariable\obj\Debug\ConstantAndVariable.pdb
