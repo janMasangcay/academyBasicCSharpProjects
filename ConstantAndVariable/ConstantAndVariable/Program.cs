@@ -9,15 +9,11 @@ namespace ConstantAndVariable
     class Program
     {
         //3.Chain two constructors together.
-        public Program(string firstName) 
-            : this(firstName, "")
-        {
-        }
+        public Program(string firstName) : this(firstName, ""){ }
         public Program(string firstName, string lastName)
         {
             FirstName = firstName;
             LastName = lastName;
-
         }
         public string FirstName;
         public string LastName;
